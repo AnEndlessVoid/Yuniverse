@@ -1,0 +1,16 @@
+[
+null,
+{"id":1,"expanded":true,"name":"World","order":1,"parentId":0,"scrollX":811,"scrollY":499},
+{"id":2,"expanded":true,"name":"Town","order":2,"parentId":1,"scrollX":819,"scrollY":461},
+{"id":3,"expanded":true,"name":"Emperor's Land","order":11,"parentId":1,"scrollX":819,"scrollY":461},
+{"id":4,"expanded":true,"name":"Forest","order":5,"parentId":1,"scrollX":819,"scrollY":461},
+{"id":5,"expanded":false,"name":"Yu's House","order":3,"parentId":2,"scrollX":819,"scrollY":461},
+{"id":6,"expanded":true,"name":"Himeji-jo","order":8,"parentId":1,"scrollX":819,"scrollY":461},
+{"id":7,"expanded":false,"name":"Market","order":4,"parentId":2,"scrollX":819,"scrollY":461},
+{"id":8,"expanded":false,"name":"Volcano2","order":7,"parentId":1,"scrollX":819,"scrollY":461},
+{"id":9,"expanded":false,"name":"Himeji-jo inside","order":9,"parentId":6,"scrollX":819,"scrollY":461},
+{"id":10,"expanded":true,"name":"Rakuen","order":10,"parentId":1,"scrollX":832,"scrollY":640},
+{"id":11,"expanded":false,"name":"Secret Pasage","order":6,"parentId":4,"scrollX":819,"scrollY":461},
+null,
+{"id":13,"expanded":false,"name":"Castle - inside","order":12,"parentId":3,"scrollX":811,"scrollY":461}
+]
